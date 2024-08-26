@@ -58,7 +58,7 @@
     display: none;
 }
 
-@media screen and (min-width: 1024px) { /*atualizado na aula 19/08 */
+@media screen and (min-width: 1024px) { 
     
  .container__titulo,
  .container__titulo--negrito {
