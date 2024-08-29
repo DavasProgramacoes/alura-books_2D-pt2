@@ -70,4 +70,9 @@
     .swiper-pagination{
         margin: 2em 0 3em 0;
     }
+    .swiper-button-prev,
+    .swiper-button-next{
+        display: block;
+        top: 60%;
+    }
 }
