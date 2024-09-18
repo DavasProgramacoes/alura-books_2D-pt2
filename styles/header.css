@@ -87,3 +87,21 @@
         display: none;
     }
 }
+
+@media screen and (min-width: 1728px){
+    .container__link{
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: var(--preto);
+        padding-right: 30px;
+    }
+}
+
+.opcoes {
+    margin-right: auto;
+}
+
+.contaiiner__texto {
+    display: block;
+}
