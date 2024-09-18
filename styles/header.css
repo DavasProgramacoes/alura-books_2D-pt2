@@ -96,12 +96,14 @@
         color: var(--preto);
         padding-right: 30px;
     }
-}
 
-.opcoes {
-    margin-right: auto;
-}
 
-.contaiiner__texto {
-    display: block;
+    .opcoes {
+      margin-right: auto;
+    }   
+
+    .contaiiner__texto {
+        display: block;
+    }
+
 }
