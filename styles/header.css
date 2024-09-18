@@ -48,6 +48,10 @@
 .container__botao {
     display: none;
 }
+.container__texto{
+    display: none;
+}
+
 @media screen and (min-width: 1024px) { 
     
  .container__titulo,
